@@ -23,13 +23,13 @@ public class ServiceAnimaux {
      */
     public void ajouterAnimal() {
         //Le code de cette méthode sera ajouté par le programmeur Alpha, dans une branche spécifique
-        /*   
+        
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entrez le nom de l'animal à ajouter : ");
         String nomAnimal = scanner.nextLine();
         animaux.add(nomAnimal);
         System.out.println(nomAnimal + " a été ajouté à la liste.");
-        */
+
     }
 
 
